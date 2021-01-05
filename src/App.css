@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  width: 100%;
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 6rem;
+  color: #61dafb;
 }
